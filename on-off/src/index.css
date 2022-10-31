@@ -1,0 +1,29 @@
+html,
+body,
+#root,
+.room {
+  height: 100%;
+  margin: 0;
+}
+.lit {
+  background-color: white;
+  color: black;
+}
+.dark {
+  background-color: black;
+  color: white;
+}
+.change{
+
+  color: #000000;
+        font-size: 20px;
+      
+}
+.add{
+  color: #000000;
+        font-size: 20px;
+}
+.sub{
+  color: #000000;
+        font-size: 20px;
+}
